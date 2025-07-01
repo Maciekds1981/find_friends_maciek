@@ -4,6 +4,3 @@ scikit-learn
 pandas
 numpy
 matplotlib
-pycaret.clustering
-plotly.express
-json
