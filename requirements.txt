@@ -1,6 +1,6 @@
 streamlit==1.25.0
 pycaret==2.3.10
-scikit
+scikit-learn
 pandas==1.3.3
 numpy
 matplotlib==3.4.3
